@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LeshengJin"
+title                    : "Lesheng Jin"
 title_separator          : "-"
 name                     : &name "Lesheng Jin"
 description              : &description "Lesheng Jin's site"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lesheng Jin"
   avatar           : "1.png"
-  bio              : "Senior Undergrad, Computer Science"
-  location         : 
+  bio              : "Undergraduate Student in ACM honored class@SJTU"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : 
